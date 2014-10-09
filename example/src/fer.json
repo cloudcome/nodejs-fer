@@ -1,0 +1,15 @@
+{
+    "dest": "../dest",
+    "img": {
+        "rootPath": "./",
+        "buildPath": "./static/img"
+    },
+    "css": {
+        "rootPath": "./",
+        "buildPath": "./static/css"
+    },
+    "js": {
+        "rootPath": "./",
+        "buildPath": "./static/js"
+    }
+}
